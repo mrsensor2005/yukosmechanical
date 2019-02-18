@@ -886,6 +886,9 @@ body {
   margin: 0;
   padding-bottom: 1.5rem;
 }
+.cid-riiRLvMbYA .mbr-section-title B {
+  color: #000000;
+}
 .cid-qWRgGbbayO {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -898,6 +901,7 @@ body {
 }
 .cid-qWRgGbbayO .mbr-section-title {
   margin: 0;
+  text-align: center;
 }
 .cid-qWRgGbbayO .mbr-section-subtitle {
   color: #bc3023;
@@ -1012,10 +1016,13 @@ body {
   text-align: center;
 }
 .cid-riiXioMvSz .mbr-section-subtitle B {
-  color: #8d97ad;
+  color: #444444;
 }
 .cid-riiXioMvSz .panel-text {
   color: #444444;
+}
+.cid-riiXioMvSz .mbr-section-title B {
+  color: #bc3023;
 }
 .cid-rijRh7Itv9 {
   padding-top: 75px;
@@ -1090,6 +1097,17 @@ body {
 }
 .cid-rijRh7Itv9 .mbr-section-subtitle {
   color: #bc3023;
+  text-align: center;
+}
+.cid-rijRh7Itv9 .card-text,
+.cid-rijRh7Itv9 .mbr-section-btn {
+  color: #8d97ad;
+}
+.cid-rijRh7Itv9 .mbr-section-title {
+  text-align: center;
+}
+.cid-rijRh7Itv9 .mbr-section-title B {
+  color: #000000;
 }
 .cid-rijwdgIUCV {
   padding-top: 75px;
@@ -1138,7 +1156,7 @@ body {
 }
 .cid-rijwdgIUCV .card-title,
 .cid-rijwdgIUCV .card-img {
-  color: #bc3023;
+  color: #000000;
 }
 .cid-rijwdgIUCV .mbr-text,
 .cid-rijwdgIUCV .mbr-section-btn {
@@ -1150,6 +1168,9 @@ body {
 }
 .cid-rijwdgIUCV .mbr-section-subtitle B {
   color: #8d97ad;
+}
+.cid-rijwdgIUCV B {
+  color: #000000;
 }
 .cid-riiKIQDWab {
   padding-top: 75px;
@@ -1268,11 +1289,11 @@ body {
 .cid-qWRe5CAQOA .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #3b7cb7;
+  background: #098484;
 }
 .cid-qWRe5CAQOA .navbar.opened {
   transition: all .3s;
-  background: #3b7cb7 !important;
+  background: #098484 !important;
 }
 .cid-qWRe5CAQOA .navbar .dropdown-item {
   padding: .235rem 2.5rem .235rem 1.5rem;
@@ -1367,7 +1388,7 @@ body {
   }
 }
 .cid-qWRe5CAQOA .navbar.navbar-short {
-  background: #3b7cb7 !important;
+  background: #098484 !important;
   min-height: 60px;
 }
 .cid-qWRe5CAQOA .navbar.navbar-short .navbar-logo img {
@@ -1406,7 +1427,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qWRe5CAQOA .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #3b7cb7;
+  background: #098484;
 }
 .cid-qWRe5CAQOA .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
