@@ -1,0 +1,2 @@
+# yukosmechanical
+GitHub Pages
