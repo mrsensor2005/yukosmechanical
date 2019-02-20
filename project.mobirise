@@ -79,7 +79,7 @@
                 "src": "@PROJECT_PATH@/assets/images/mbr-33-1600x900.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-33-85x48.png",
                 "title": "Rooftops Installation",
-                "text": "We are provide full range of HVAC services from design to installation.",
+                "text": "We are provide full range of HVAC services from design to installation",
                 "active": false
               },
               {
@@ -89,7 +89,7 @@
                 "src": "@PROJECT_PATH@/assets/images/mbr-35-1600x900.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-35-85x48.png",
                 "title": "Split System",
-                "text": "We service all brands and equipment including your furnace, air conditioning unit, mini-splits,  heat pumps, air handlers, and boilers.",
+                "text": "We service all brands and equipment including your furnace, air conditioning unit, mini-splits,  heat pumps, air handlers, and boilers",
                 "active": false
               },
               {
@@ -99,8 +99,8 @@
                 "src": "@PROJECT_PATH@/assets/images/mbr-37-1600x900.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-37-85x48.png",
                 "title": "Areas",
-                "text": "Some of the areas we work include New York State, New Jersey and Connecticut",
-                "active": false
+                "text": "We service all brands and equipment including your furnace, air conditioning unit, mini-splits,  heat pumps, air handlers, and boilers",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-40-1600x900.jpg",
@@ -110,7 +110,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-39-85x48.png",
                 "title": "Ductworks",
                 "text": "Ductwork is very important when a system is replaced",
-                "active": true
+                "active": false
               }
             ],
             "fullScreen": true,
