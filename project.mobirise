@@ -80,7 +80,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-33-85x48.png",
                 "title": "Rooftops Installation",
                 "text": "We are provide full range of HVAC services from design to installation",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-36-1600x900.jpg",
@@ -88,7 +88,7 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/mbr-35-1600x900.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-35-85x48.png",
-                "title": "Split System",
+                "title": "Split Systems",
                 "text": "We service all brands and equipment including your furnace, air conditioning unit, mini-splits,  heat pumps, air handlers, and boilers",
                 "active": false
               },
@@ -110,7 +110,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-39-85x48.png",
                 "title": "Ductworks",
                 "text": "Ductwork is very important when a system is replaced",
-                "active": true
+                "active": false
               }
             ],
             "fullScreen": true,
