@@ -639,15 +639,12 @@ a:hover {
   color: #b7b7b7;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 .mbr-arrow-up a {
   width: 61px;
   height: 61px;
 }
 #scrollToTop a {
-  background: #188ef4;
+  background: #098484;
 }
 #scrollToTop a i:before {
   content: '';
@@ -689,7 +686,7 @@ a:hover {
   display: block;
 }
 .mbr-arrow a i {
-  color: #188ef4;
+  color: #098484;
   top: auto !important;
   left: auto !important;
 }
