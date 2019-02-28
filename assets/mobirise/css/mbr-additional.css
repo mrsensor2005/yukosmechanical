@@ -1287,6 +1287,7 @@ body {
 .cid-qWRe5CAQOA .navbar {
   min-height: 77px;
   transition: all .3s;
+  border-bottom: 1px solid lightgray;
   background: #fffcfc;
 }
 .cid-qWRe5CAQOA .navbar.opened {
