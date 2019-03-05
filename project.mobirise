@@ -97,7 +97,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-33-85x48.png",
                 "title": "Rooftops Installation",
                 "text": "We are provide full range of HVAC services from design to installation",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-36-1600x900.jpg",
@@ -120,14 +120,14 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-40-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ductwork-1-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-39-1600x900.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-39-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/ductwork-1600x900.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/ductwork-1-85x48.png",
                 "title": "Ductworks",
                 "text": "Ductwork is very important when a system is replaced",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
