@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-04_2117-clone",
+    "name": "yukosmechnical",
     "currentPage": "index.html",
     "theme": {
       "name": "businessm4",
@@ -42,11 +42,11 @@
     "favicon": "@PROJECT_PATH@/assets/images/419-93x85.png",
     "noImageResize": "true",
     "cookiesAlert": "",
-    "gdpr": "",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "",
-    "siteUrl": "",
+    "siteUrl": "https://mrsensor2005.github.io/yukosmechanical/",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700",
@@ -70,7 +70,8 @@
       }
     ],
     "сanonical-url": "",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
