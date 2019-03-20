@@ -464,7 +464,10 @@ animation: gradient-animation 4s infinite alternate;
 .navbar-collapse {
   -webkit-flex-basis: 100%;
   -webkit-flex-grow: 1;
-  -webkit-align-items: center; }
+  -webkit-align-items: center;
+  max-height: 94vh; }
+  .navbar-collapse.show {
+    overflow: auto; }
 
 .nav-dropdown .link {
   padding: .667em 1.667em !important;
