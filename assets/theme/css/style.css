@@ -442,6 +442,11 @@ animation: gradient-animation 4s infinite alternate;
     display: -webkit-flex; }
   .menu .navbar-brand .navbar-logo img {
     display: -webkit-flex; }
+@media (max-width: 991px) {
+  .menu .navbar-collapse {
+    max-height: 94vh; }
+    .menu .navbar-collapse.show {
+      overflow: auto; } }
 @media (max-width: 767px) {
   .menu .navbar-collapse {
     max-height: 60vh; } }
@@ -453,7 +458,11 @@ animation: gradient-animation 4s infinite alternate;
   .menu .navbar-nav.nav-dropdown {
     display: -webkit-flex; }
   .menu .navbar-toggleable-sm .navbar-collapse {
-    display: -webkit-flex !important; } }
+    display: -webkit-flex !important; }
+  .menu .collapsed .navbar-collapse {
+    max-height: 94vh; }
+    .menu .collapsed .navbar-collapse.show {
+      overflow: auto; } }
 
 .navbar {
   display: -webkit-flex;
@@ -464,10 +473,7 @@ animation: gradient-animation 4s infinite alternate;
 .navbar-collapse {
   -webkit-flex-basis: 100%;
   -webkit-flex-grow: 1;
-  -webkit-align-items: center;
-  max-height: 94vh; }
-  .navbar-collapse.show {
-    overflow: auto; }
+  -webkit-align-items: center; }
 
 .nav-dropdown .link {
   padding: .667em 1.667em !important;
@@ -490,8 +496,12 @@ animation: gradient-animation 4s infinite alternate;
 .media {
   display: -webkit-flex; }
 
+.form-control {
+  height: 100%;
+  padding: .375rem .75rem; }
+
 .jq-selectbox__select {
-  padding: .5rem 1rem;
+  padding: .375rem .75rem;
   position: absolute;
   top: 0;
   left: 0;
@@ -507,6 +517,6 @@ animation: gradient-animation 4s infinite alternate;
   transform: translateY(-50%); }
 
 .jq-selectbox li {
-  padding: .5rem 1rem; }
+  padding: .375rem .75rem; }
 
 /*# sourceMappingURL=style.css.map */

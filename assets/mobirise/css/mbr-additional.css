@@ -732,8 +732,6 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
-  min-height: 3.5em;
-  padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
   font-size: 1.6rem;
@@ -1121,7 +1119,7 @@ body {
 .cid-rijwdgIUCV {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/about-us-13.png");
+  background-image: url("../../../assets/images/about-us-16.png");
 }
 .cid-rijwdgIUCV .mbr-overlay {
   background: #efefef;
