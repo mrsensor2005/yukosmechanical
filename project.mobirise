@@ -91,11 +91,11 @@
             "theme": "rhomb",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-53-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-design-hvac-system-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-52-1600x900.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-52-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/new-design-hvac-system.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/new-design-hvac-system-85x48.png",
                 "title": "Rooftops Installation",
                 "text": "We are provide full range of HVAC services from design to installation",
                 "active": true
