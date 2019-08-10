@@ -1553,7 +1553,7 @@ body {
 .cid-qWReZKjwE8 {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background6.jpg");
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-qWReZKjwE8 .content {
@@ -1653,5 +1653,5 @@ body {
 }
 .cid-qWReZKjwE8 .copyright > p {
   text-align: center;
-  color: #f4f8fa;
+  color: #000000;
 }
