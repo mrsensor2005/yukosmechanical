@@ -1190,7 +1190,7 @@
               "color": "#cccccc"
             },
             ".column-title": {
-              "color": "#188ef4"
+              "color": "#efefef"
             }
           },
           "_name": "footer3",
