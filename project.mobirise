@@ -629,7 +629,7 @@
               "color": "#ff0000"
             },
             ".mbr-text,.mbr-section-btn": {
-              "color": "#cccccc"
+              "color": "#444444"
             }
           },
           "_name": "tabs1",
