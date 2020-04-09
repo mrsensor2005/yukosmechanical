@@ -45,8 +45,8 @@
     "noImageResize": "true",
     "google-analytics": "",
     "siteUrl": "https://mrsensor2005.github.io/yukosmechanical/",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700",
