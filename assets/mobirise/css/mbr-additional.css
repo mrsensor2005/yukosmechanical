@@ -1317,6 +1317,7 @@ body {
   top: 30%;
   line-height: 1;
   font-size: inherit;
+  color: #188ef4;
   vertical-align: middle;
   text-align: center;
   transform: scale(0, 1);
@@ -1600,7 +1601,7 @@ body {
 }
 .cid-qWRe5CAQOA .mbr-iconfont {
   font-size: 1rem;
-  color: #ffffff;
+  color: orange;
   display: inline-flex;
 }
 .cid-qWRe5CAQOA .mbr-iconfont:before {
@@ -1735,7 +1736,7 @@ body {
 }
 .cid-qWReZKjwE8 .copyright > p {
   text-align: left;
-  color: #51aafa;
+  color: #188ef4;
 }
 .cid-qWReZKjwE8 P {
   color: #000000;
@@ -1744,7 +1745,7 @@ body {
   color: #000000;
 }
 .cid-qWReZKjwE8 .copyright > p B {
-  color: #cccccc;
+  color: #188ef4;
 }
 .cid-qWReZKjwE8 .column-title {
   color: #000000;
