@@ -45,7 +45,7 @@
     "noImageResize": "true",
     "google-analytics": "",
     "siteUrl": "https://mrsensor2005.github.io/yukosmechanical/",
-    "robotsText": "User-agent: *\nhttps://mrsensor2005.github.io/yukosmechanical/sitemap.xml\n\n",
+    "robotsText": "User-agent: *\nsitemap: https://mrsensor2005.github.io/yukosmechanical/sitemap.xml\n\n\n",
     "robotsSwitcher": "on",
     "siteFonts": [
       {

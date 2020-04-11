@@ -1,3 +1,4 @@
 User-agent: *
-https://mrsensor2005.github.io/yukosmechanical/sitemap.xml
+sitemap: https://mrsensor2005.github.io/yukosmechanical/sitemap.xml
+
 
